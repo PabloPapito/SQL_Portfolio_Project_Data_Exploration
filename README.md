@@ -1,5 +1,6 @@
 # SQL_Portfolio_Project_Data_Exploration
 This project is done after Data Analyst Bootcamp with Alex The Analyst.
+Link to Dataset: https://ourworldindata.org/covid-deaths
 
 In this particular project we downloaded data according to COVID case across the globe where we could focus of several interesting observations such as:
 -- Looking at Total Cases vs Total Deaths
