@@ -1,12 +1,16 @@
+--TEST of DATA
+
 SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
 ORDER BY 3,4 
 
---SELECT *
---FROM PortfolioProject..CovidVaccinations
---WHERE continent is not null
---ORDER BY 3,4 
+SELECT *
+FROM PortfolioProject..CovidVaccinations
+WHERE continent is not null
+ORDER BY 3,4 
+
+-- END of TEST
 
 -- Select Data that we are going to be using
 
